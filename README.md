@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @210709cs22
-- 👀 I’m interested in coding sites
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m a freshman student at Akfa Unuversity 
+- 💞️ I’m a freshman student at Akfa University 
 - 📫 How to reach me 21au063@akfauniversity.org
 
 <!---
